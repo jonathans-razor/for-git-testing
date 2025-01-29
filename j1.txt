@@ -1,5 +1,0 @@
-jt text
-password=
-
-
-This change is from develop branch.
